@@ -1,0 +1,40 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "1",
+      "plumberId": "1",
+      "id": 1
+    },
+    {
+      "requestId": "2",
+      "plumberId": "2",
+      "id": 2
+    }
+  ],
+  "requests": [
+    {
+      "description": "mop sink leak",
+      "address": "3333 thirty three",
+      "budget": "33.00",
+      "neededBy": "2022-12-30",
+      "id": 1
+    },
+    {
+      "description": "bens sink",
+      "address": "66 sixty six",
+      "budget": "66",
+      "neededBy": "2023-01-06",
+      "id": 2
+    }
+  ]
+}
